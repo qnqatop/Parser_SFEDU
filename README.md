@@ -1,2 +1,2 @@
 # Parser_SFEDU
-Парсер простого сайта ### apple-rostov.com
+Парсер простого сайта ``apple-rostov.com``
